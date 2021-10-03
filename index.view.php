@@ -42,7 +42,7 @@
 		<!-- Tabla que muestra las tareas actuales -->
 		<div class="col-md-12">
 			<br>
-			<h4 class="text-center">Listado de Tareas</h4>
+			<h4 class="text-center">Listado de Tareas Actuales</h4>
 			<table class="table table-bordered">
 				<thead>
 					<tr>

@@ -121,7 +121,7 @@
 <div class="container p-4">
 	<div class="row">
 		<div class="col-sm-10 col-md-8 col-lg-6">
-			<h4 class="text-center">Crear Nueva Tarea</h4>
+			<h4 class="text-center">Formulario para Nueva Tarea</h4>
 			<div class="card card-body">
 				<!--<form action="grabar.php" method="POST" name="form" onsubmit="return validarFormulario()">-->
 				<form action="index.web.php" method="POST" name="form">
@@ -155,7 +155,7 @@
 		<!-- Tabla que muestra las tareas actuales -->
 		<div class="col-md-12">
 			<br>
-			<h4 class="text-center">Listado de Tareas</h4>
+			<h4 class="text-center">Listado de Tareas Actuales</h4>
 			<table class="table table-bordered">
 				<thead>
 					<tr>
